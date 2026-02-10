@@ -56,16 +56,19 @@
 <h2 align="center">🏆 Trophies & Momentum</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alinj166&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
+ <img src="https://github-readme-trophy.vercel.app/?username=alinj166&theme=radical&no-frame=true&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies Backup" style="margin-top: 15px;" />
 </div>
 
 <h2 align="center">📊 Live Activity Pulse</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alinj166&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00F0FF&icon_color=00D4FF&text_color=ffffff" alt="Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alinj166&theme=radical&hide_border=true&background=0d1117&stroke=00F0FF&ring=00D4FF&fire=00F0FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=ffffff&dates=ffffff" alt="Streak" width="48%"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinj166&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=ffffff&langs_count=8" alt="Top Languages" width="65%"/>
+  <!-- Streak – Currently the most reliable one -->
+  <img src="https://streak-stats.demolab.com?user=alinj166&theme=radical&hide_border=true&background=0d1117&stroke=00F0FF&ring=00D4FF&fire=00F0FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=ffffff&dates=ffffff" alt="Contribution Streak" width="48%"/>
+  
+  <p style="font-size: 0.9em; color: #aaa; margin-top: 10px;">
+    Stats services can be unstable right now — focus on pinned projects & skills for the full picture!<br>
+    (Activity: ~80 contributions total • Low recent commits)
+  </p>
 </div>
 
 <br />
