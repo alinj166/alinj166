@@ -11,15 +11,13 @@
 
 <p align="center">
   Passionate Full-Stack Engineer turning complex problems into elegant, scalable solutions.<br>
-  Currently pursuing Master's in Business IT (WSB Merito, Poland) while building enterprise-grade apps with modern architecture.
+  Currently pursuing Master's in Business IT (WSB Merito, Poland) and master cyber security (ISI,Tunisia) while building enterprise-grade apps with modern architecture.
   <br><br>
-  <strong>Ideal fit for Cognizant Senior Software Engineer (Warsaw hybrid – Job #46854):</strong><br>
   Deep expertise in Angular architecture + RxJS, TypeScript mastery, Java/Spring Boot microservices,<br>
   GCP/serverless, PostgreSQL + Firebase, Linux/Bash, CI/CD leadership, mentoring juniors & cross-functional collaboration.
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ali-neji-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:alinj161@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/alinj166"><img src="https://img.shields.io/github/followers/alinj166?color=00F0FF&label=Follow&logo=github&style=for-the-badge" alt="Followers"/></a>
   <br><br>
