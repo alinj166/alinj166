@@ -21,8 +21,12 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/ali-neji-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:alinj161@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://alinj166.github.io/myCv/"><img src="https://img.shields.io/badge/CV-Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="CV"/></a>
   <a href="https://github.com/alinj166"><img src="https://img.shields.io/github/followers/alinj166?color=00F0FF&label=Follow&logo=github&style=for-the-badge" alt="Followers"/></a>
+  <br><br>
+  <!-- New PDF direct link with nice badge -->
+  <a href="https://github.com/alinj166/alinj166/raw/main/MyResume.pdf">
+    <img src="https://img.shields.io/badge/View_Full_CV_(PDF)-Download_Now-00D4FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV PDF" />
+  </a>
 </div>
 
 <br />
@@ -144,7 +148,9 @@
   Actively exploring Senior / Lead roles in Poland (hybrid/remote).<br>
   Especially excited about Angular + cloud-native projects at innovative teams like Cognizant Warsaw!
   <br><br>
-  <a href="https://alinj166.github.io/myCv/">→ Full Professional CV ←</a>
+  <a href="https://github.com/alinj166/alinj166/raw/main/MyResume.pdf">
+    → Open Full Professional CV (PDF) ←
+  </a>
 </p>
 
 <div align="center">
