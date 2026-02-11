@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4500&pause=700&color=00F0FF&center=true&vCenter=true&width=750&lines=Heyy!+I'm+Ali+Neji;Senior+Full-Stack+Engineer+%7C+Angular+%26+Java+Specialist;Cloud-Native+%26+Scalable+Systems+Architect;Poland-Based+%F0%9F%87%B5%F0%9F%87%B1+%7C+Open+to+Hybrid+Leadership+Roles;Crafting+the+Future+with+Code+%26+Innovation" alt="Typing SVG Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4500&pause=700&color=00F0FF&center=true&vCenter=true&width=750&lines=Heyy!+I'm+Ali+Neji;Senior+Full-Stack+Engineer+%7C+Angular+%26+NodeJS+Specialist;Cloud-Native+%26+Scalable+Systems+Architect;Poland-Based+%F0%9F%87%B5%F0%9F%87%B1+%7C+Open+to+Hybrid+Leadership+Roles;Crafting+the+Future+with+Code+%26+Innovation" alt="Typing SVG Header" />
   <br><br>
   <img src="https://img.shields.io/badge/2026-Senior+Ready-0F62FE?style=for-the-badge&logo=angular&logoColor=white&labelColor=000" alt="2026 Ready" />
   <img src="https://img.shields.io/badge/Warsaw-Hybrid%20Ready-00D4FF?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=111" alt="Hybrid Warsaw" />
